@@ -24,6 +24,14 @@
   -webkit-tap-highlight-color: transparent;
 }
 
+.social-icon {
+  font-size: 20px;
+  padding: 5px;
+}
+.social-icon-div {
+  padding-bottom: 25px;
+}
+.social-icon{color:#fff;}
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
