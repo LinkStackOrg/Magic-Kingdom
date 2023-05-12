@@ -1,5 +1,5 @@
-# A LittleLink Custom Theme
-Find more themes: https://github.com/JulianPrieber/llc-themes
+# A LinkStack Theme
+Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: Magic Kingdom
 *	Theme Version: 1.1
@@ -8,7 +8,7 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme Original Author URI: https://github.com/D3FaltX
 *	Theme License: MIT
-*	Source code: https://github.com/JulianPrieber/Magic-Kingdom
+*	Source code: https://github.com/LinkStackOrg/Magic-Kingdom
 
 
 ### Used assets:
