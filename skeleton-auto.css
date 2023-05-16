@@ -16,10 +16,6 @@
 */
 
 
-@import url('https://fonts.bunny.net/css?family=Karla:400,700&display=swap');
-@import url('https://fonts.bunny.net/css2?family=Noto+Sans+Mono:400,700&display=swap');
-
-
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
@@ -62,58 +58,7 @@
   html is set to 62.5% so that all the REM measurements throughout Skeleton
   are based on 10px sizing. So basically 1.5rem = 15px :) */
 
-  html {
-    font-size: 100%; }
 
-  /* Background
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-  body {
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    font-family: var(--font);
-    background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%);
-    background-image: url('https://r4.wallpaperflare.com/wallpaper/346/517/218/digital-art-artwork-illustration-environment-purple-background-hd-wallpaper-e09015a99f46aee3385f97f66bf67428.jpg');
-    opacity: 0;
-    animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
-    animation-fill-mode: forwards;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    color: #FFFFFF;
-  }
-
-  
-  /* Animation */
-  @keyframes transitionAnimation {
-    0% {
-        opacity: 0;
-        transform: translateY(-10px);
-    }
-    100% {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-@keyframes animate {
-    0% {
-      background-position: -500%;
-    }
-    100% {
-      background-position: 500%;
-    }
-}
-
-@keyframes animStar {
-    from {
-        transform: translateY(0px);
-    }
-    to {
-        transform: translateY(-2000px);
-    }
-}
   
   /* Typography
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
