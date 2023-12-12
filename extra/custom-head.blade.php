@@ -100,11 +100,11 @@ html {
   @keyframes transitionAnimation {
     0% {
         opacity: 0;
-        transform: translateY(-10px);
+        top: -10px;
     }
     100% {
         opacity: 1;
-        transform: translateY(0);
+        top: 0px;
     }
 }
 @keyframes animate {
