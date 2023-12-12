@@ -19,7 +19,7 @@ return [
     'allow_custom_buttons' => 'false',
 
     'open_links_in_same_tab' => 'false',
-
+    'enable_dynamic_contrast' => 'true',
 
     /*
     |--------------------------------------------------------------------------
